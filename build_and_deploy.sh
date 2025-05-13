@@ -137,7 +137,7 @@ echo "✅ Version update pushed successfully."
 # Login to git hub
 echo "$GH_PAT" | docker login ghcr.io -u vbalaji215-dev --password-stdin
 # Define variables to push image to docker hub
-IMAGE_NAME="auth-service"
+IMAGE_NAME="customer-management"
 CONTAINER_REPO="ghcr.io"
 CONTAINER_ORG="artemis-2-0"
 TAG="latest"
