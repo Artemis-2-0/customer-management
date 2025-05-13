@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.brihaspathee.artemis</groupId>
 	<artifactId>customer-management</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>customer-management</name>
 	<description>customer-management</description>
 	<url/>
